@@ -18,7 +18,7 @@ $ lounge config
 
 ## public
 
-This setting can be either `true` or `false`. Public servers require no authentication. This is the default mode. Set to `false` to enable user login.
+This setting can be either `true` or `false`. Public servers require no authentication. This is the default mode. Set to `false` to enable user login and persistant IRC connections which can be resumed from multiple web sessions.
 
 ## host
 
